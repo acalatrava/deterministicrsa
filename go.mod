@@ -1,3 +1,3 @@
-module github.com/antoniocalatrava/deterministicrsa
+module github.com/acalatrava/deterministicrsa
 
 go 1.14
